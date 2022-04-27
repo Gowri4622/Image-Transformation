@@ -128,8 +128,8 @@ plt.imshow(cropped_image)
 
 ### iv)Image Reflection
 ![o4di](https://user-images.githubusercontent.com/75235455/165481571-31a1e5f2-61d4-4865-ba1e-fa482976dff1.png)
-![o41di](https://user-images.githubusercontent.com/75235455/165481601-530321c7-68ad-4269-8b96-768a19ec74ec.png)
 <br>
+![o41di](https://user-images.githubusercontent.com/75235455/165481601-530321c7-68ad-4269-8b96-768a19ec74ec.png)
 <br>
 <br>
 <br>
